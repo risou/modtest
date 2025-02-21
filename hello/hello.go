@@ -1,4 +1,4 @@
-package modtest-hello
+package modtest_hello
 
 import (
     "errors"
