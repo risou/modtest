@@ -1,4 +1,4 @@
-package github.com/risou/modtest-hello
+package github.com/risou/modtest/hello
 
 import (
     "errors"
